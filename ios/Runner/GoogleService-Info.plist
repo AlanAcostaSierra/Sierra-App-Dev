@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyCHPUsG4rem4j86Mc1W_dSWnJaBUVHG_f0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>781900827685</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sierra360.app</string>
+	<key>PROJECT_ID</key>
+	<string>alan-buildship-02</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alan-buildship-02.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:781900827685:ios:0e043e74b21184237a03cc</string>
+	<key>DATABASE_URL</key>
+	<string>https://alan-buildship-02-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
